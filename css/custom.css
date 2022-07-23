@@ -21,25 +21,3 @@ section{
 .text-color-button{
     color: blue;
 }
-.pac-text{
-    text-align: center;
-    margin-bottom: 150px;
-   
-}
-.pak-btn{
-    background-color: hsl(322, 50%, 88%);
-    border-radius: 50px;
-}
-.wedding{
-    background-color: rgba(8, 8, 250, 0.815);
-    color: white;
-    
-    margin-top: -50px;
-    border-radius: 30px;
-
-}
-.hot{
-    margin-top: -50px;
-    margin-left: -40px;
-    padding: 15px;
-}
